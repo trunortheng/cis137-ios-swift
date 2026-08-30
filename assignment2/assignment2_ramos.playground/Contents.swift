@@ -2,7 +2,6 @@
 //: ## Erick Ramos
 //: ## August 31, 2026
 
-
 //: ## The For-In Loop
 
 var names = [
@@ -56,34 +55,24 @@ for (name, age) in namesDict {
 
 
 //: ## Interval Binding
+var ageMessage: String
 
-// switch statement
-let day = "Monday"
-switch day {
-case "Monday":
-    print("Start of the week")
-case "Friday":
-    print("End of the week")
-default:
-    print("Midweek")
+for (name, age) in namesDict {
+    let randomInt = Int.random(in: 0...4)
+    
+    switch age {
+    case 0...17:
+        ageMessage = "You are a child"
+    case 18...25:
+        ageMessage = "You are a young adult"
+    case 26...65:
+        ageMessage = "You are an adult"
+    case 66...:
+        ageMessage = "You are a senior"
+    default:
+        ageMessage = "Your age is unknown"
+    }
+    
+    print("\(greetings[randomInt]), \(name)! Happy \(age)th birthday!")
+    print(ageMessage)
 }
-
-let approximateCount = 62
-let countedThings = "moons orbiting Saturn"
-let naturalCount: String
-switch approximateCount {
-case 0:
-    naturalCount = "no"
-case 1..<5:
-    naturalCount = "a few"
-case 5..<12:
-    naturalCount = "several"
-case 12..<100:
-    naturalCount = "dozens of"
-case 100..<1000:
-    naturalCount = "hundreds of"
-default:
-    naturalCount = "many"
-}
-print("There are \(naturalCount) \(countedThings).")
-// Prints "There are dozens of moons orbiting Saturn."
