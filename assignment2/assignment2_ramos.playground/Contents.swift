@@ -62,15 +62,15 @@ for (name, age) in namesDict {
     
     switch age {
     case 0...17:
-        ageMessage = "You are a child"
+        ageMessage = "You are a child."
     case 18...25:
-        ageMessage = "You are a young adult"
+        ageMessage = "You are a young adult."
     case 26...65:
-        ageMessage = "You are an adult"
+        ageMessage = "You are an adult."
     case 66...:
-        ageMessage = "You are a senior"
+        ageMessage = "You are a senior."
     default:
-        ageMessage = "Your age is unknown"
+        ageMessage = "Your age is unknown."
     }
     
     print("\(greetings[randomInt]), \(name)! Happy \(age)th birthday!")
