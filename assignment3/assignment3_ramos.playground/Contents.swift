@@ -146,3 +146,18 @@ print("32°F = \(fToK) K")
 
 let kelvinToF = convertTemperature(300, using: k2f)
 print("300 K = \(kelvinToF) °F")
+
+
+
+/*
+ Sample Output:
+ 
+ 25°C is 77.0°F
+ 77°F is 25.0°C
+ 25°C = 77.0°F
+ 77°F = 25.0°C
+ 0°C = 273.15 K
+ 273 K = 0.0 °C
+ 32°F = 273.15 K
+ 300 K = 80.33000000000004 °F
+ */
