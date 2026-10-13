@@ -1,0 +1,62 @@
+[
+  {
+    "id": "mind-body",
+    "name": "Mind & Body",
+    "items": [
+      {
+        "id": "fit-1",
+        "name": "Yoga",
+        "photoCredit": "Fitness",
+        "price": 0,
+        "restrictions": [],
+        "description": "A spiritual and physical practice focusing on breath control, simple meditation, and specific bodily postures for flexibility and strength."
+      },
+      {
+        "id": "fit-2",
+        "name": "Boxing",
+        "photoCredit": "Fitness",
+        "price": 0,
+        "restrictions": [],
+        "description": "A high-intensity combat sport discipline building explosive power, agility, cardiovascular endurance, and core strength."
+      }
+    ]
+  },
+  {
+    "id": "strength-cardio",
+    "name": "Strength & Cardio",
+    "items": [
+      {
+        "id": "fit-3",
+        "name": "Weight Training",
+        "photoCredit": "Fitness",
+        "price": 0,
+        "restrictions": [],
+        "description": "Resistance exercise designed to develop the strength and size of skeletal muscles through free weights or machines."
+      },
+      {
+        "id": "fit-4",
+        "name": "Soccer",
+        "photoCredit": "Fitness",
+        "price": 0,
+        "restrictions": [],
+        "description": "A dynamic team sport providing exceptional cardiovascular endurance, footwork coordination, and stamina conditioning."
+      },
+      {
+        "id": "fit-5",
+        "name": "Dance",
+        "photoCredit": "Fitness",
+        "price": 0,
+        "restrictions": [],
+        "description": "An expressive physical art form that doubles as an incredible full-body cardio workout improving rhythm and balance."
+      },
+      {
+        "id": "fit-6",
+        "name": "Biking",
+        "photoCredit": "Fitness",
+        "price": 0,
+        "restrictions": [],
+        "description": "A low-impact aerobic exercise great for building lower body muscle tone, joint mobility, and heart health."
+      }
+    ]
+  }
+]

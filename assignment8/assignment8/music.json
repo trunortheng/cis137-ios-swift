@@ -1,0 +1,121 @@
+[
+  {
+    "id": "reggae-section",
+    "name": "Reggae",
+    "items": [
+      {
+        "id": "song-1",
+        "name": "Evil",
+        "time": "3:31",
+        "artist": "Surfer Girl",
+        "album": "Sunrise",
+        "genre": "Reggae",
+        "thumbnailImage": "music_placeholder",
+        "description": "Surfer Girl is known for blending smooth, sun-soaked reggae rhythms with heartfelt melodies. 'Evil' showcases their signature coastal groove, featuring relaxed guitar phrasing and a soothing vocal delivery that captures a carefree beach lifestyle."
+      },
+      {
+        "id": "song-2",
+        "name": "Upside Down",
+        "time": "3:50",
+        "artist": "The Elovaters",
+        "album": "Castles",
+        "genre": "Reggae",
+        "thumbnailItem": "",
+        "thumbnailImage": "music_placeholder",
+        "description": "The Elovaters are a premier modern reggae-rock band originating from Boston. 'Upside Down' from their album 'Castles' highlights their ability to mix uplifting horns, infectious basslines, and positive lyricism designed to brighten any listener's day."
+      },
+      {
+        "id": "song-3",
+        "name": "Let It All Out (feat. Bret Bollinger)",
+        "time": "4:35",
+        "artist": "The Elovaters & Pepper",
+        "album": "Double Vision (Deluxe)",
+        "genre": "Reggae",
+        "thumbnailImage": "music_placeholder",
+        "description": "A powerful collaboration between The Elovaters and Hawaiian reggae-rock legends Pepper. 'Let It All Out' combines laid-back island grooves with anthemic choruses, emphasizing themes of letting go of stress and embracing good vibes."
+      },
+      {
+        "id": "song-4",
+        "name": "Be Alright",
+        "time": "3:29",
+        "artist": "The Elovaters",
+        "album": "Castles",
+        "genre": "Reggae",
+        "thumbnailImage": "music_placeholder",
+        "description": "Also featured on the 'Castles' album, 'Be Alright' serves as a comforting reggae anthem. With its warm instrumentation and reassuring lyrics, the track reinforces resilience and inner peace through life's hurdles."
+      },
+      {
+        "id": "song-5",
+        "name": "Dollar Saved",
+        "time": "3:35",
+        "artist": "Tropidelic",
+        "album": "Heavy is the Head",
+        "genre": "Reggae",
+        "thumbnailImage": "music_placeholder",
+        "description": "Tropidelic mixes high-energy reggae, funk, and hip-hop influences. 'Dollar Saved' from 'Heavy is the Head' drives forward with punchy brass sections, dynamic rhythm structures, and gritty, passionate vocals."
+      },
+      {
+        "id": "song-6",
+        "name": "So Many Reasons",
+        "time": "3:28",
+        "artist": "The Elovaters",
+        "album": "Defy Gravity",
+        "genre": "Reggae",
+        "thumbnailImage": "music_placeholder",
+        "description": "From their critically acclaimed album 'Defy Gravity', 'So Many Reasons' highlights The Elovaters' polished sound production, combining breezy guitar strums with deeply catchy vocal hooks."
+      },
+      {
+        "id": "song-7",
+        "name": "Burning Up (Acoustic)",
+        "time": "4:17",
+        "artist": "The Expendables",
+        "album": "Gone Raw",
+        "genre": "Reggae",
+        "thumbnailImage": "music_placeholder",
+        "description": "The Expendables are renowned for fusing surf rock, punk, and reggae. The acoustic version of 'Burning Up' from their 'Gone Raw' project strips back the amplification to highlight the raw songwriting quality and harmonic vocals of the band."
+      }
+    ]
+  },
+  {
+    "id": "musica-mexicana-section",
+    "name": "Música Mexicana",
+    "items": [
+      {
+        "id": "song-8",
+        "name": "Mil Razones",
+        "time": "3:35",
+        "artist": "DannyLux",
+        "album": "Perdido En Ti",
+        "genre": "Música Mexicana",
+        "thumbnailImage": "music_placeholder",
+        "description": "DannyLux is a major innovator in the modern sad/alternative sierreño and Música Mexicana movement. 'Mil Razones' from the album 'Perdido En Ti' features emotional acoustic guitar arrangements and dreamy vocals that capture adolescent heartbreak and longing."
+      }
+    ]
+  },
+  {
+    "id": "alternative-section",
+    "name": "Alternative",
+    "items": [
+      {
+        "id": "song-9",
+        "name": "Sitting In The Corner (feat. Kacey Musgraves)",
+        "time": "3:52",
+        "artist": "Cuco & Adriel Favela",
+        "album": "Fantasy Gateway",
+        "genre": "Alternative",
+        "thumbnailImage": "music_placeholder",
+        "description": "A brilliant cross-genre collaboration between indie-pop artist Cuco, regional Mexican star Adriel Favela, and country icon Kacey Musgraves. 'Sitting In The Corner' blends nostalgic bedroom-pop aesthetics with alternative storytelling."
+      },
+      {
+        "id": "song-10",
+        "name": "White Braids & Pillow Chair",
+        "time": "3:41",
+        "artist": "Red Hot Chili Peppers",
+        "album": "Unlimited Love",
+        "genre": "Alternative",
+        "thumbnailImage": "music_placeholder",
+        "description": "From the Red Hot Chili Peppers' album 'Unlimited Love', this track features John Frusciante's melodic guitar work and Flea's iconic bouncy basslines. It stands out as a breezy, nostalgic alternative rock tune capturing classic Southern California energy."
+      }
+    ]
+  }
+]

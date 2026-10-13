@@ -1,0 +1,38 @@
+[
+  {
+    "id": "electric-suvs",
+    "name": "Electric & SUVs",
+    "items": [
+      {
+        "id": "car-1",
+        "name": "Tesla Model Y",
+        "photoCredit": "Tesla",
+        "price": 0,
+        "restrictions": [],
+        "description": "An all-electric, mid-size crossover utility vehicle featuring a spacious cabin, minimalist interior design, and long-range battery efficiency."
+      },
+      {
+        "id": "car-2",
+        "name": "Ford Raptor",
+        "photoCredit": "Ford",
+        "price": 0,
+        "restrictions": [],
+        "description": "A high-performance off-road pickup truck built with heavy-duty suspension, aggressive styling, and rugged terrain capabilities."
+      }
+    ]
+  },
+  {
+    "id": "sedans",
+    "name": "Sedans",
+    "items": [
+      {
+        "id": "car-3",
+        "name": "Honda Civic",
+        "photoCredit": "Honda",
+        "price": 0,
+        "restrictions": [],
+        "description": "A reliable, sporty compact sedan known for its smooth handling, fuel efficiency, and modern everyday practicality."
+      }
+    ]
+  }
+]

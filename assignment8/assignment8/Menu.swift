@@ -38,3 +38,64 @@ struct MenuItem: Codable, Equatable, Identifiable {
                                   description: "Sweet, fluffy, and served piping hot, our French toast is flown in fresh every day from Maple City, Canada, which is where all maple syrup in the world comes from. And if you believe that, we have some land to sell you…")
     #endif
 }
+
+struct MusicSection: Codable, Identifiable {
+    var id: String
+    var name: String
+    var items: [SongItem]
+}
+
+struct SongItem: Codable, Identifiable {
+    var id: String
+    var name: String
+    var time: String
+    var artist: String
+    var album: String
+    var genre: String
+    var description: String
+}
+
+struct CarSection: Codable, Identifiable {
+    var id: String
+    var name: String
+    var items: [CarItem]
+}
+
+struct CarItem: Codable, Identifiable {
+    var id: String
+    var name: String
+    var photoCredit: String
+    var price: Int
+    var restrictions: [String]
+    var description: String
+}
+
+struct FitnessSection: Codable, Identifiable {
+    var id: String
+    var name: String
+    var items: [FitnessItem]
+}
+
+struct FitnessItem: Codable, Identifiable {
+    var id: String
+    var name: String
+    var photoCredit: String
+    var price: Int
+    var restrictions: [String]
+    var description: String
+}
+
+struct HomeSection: Codable, Identifiable {
+    var id: String
+    var name: String
+    var items: [HomeItem]
+}
+
+struct HomeItem: Codable, Identifiable {
+    var id: String
+    var name: String
+    var photoCredit: String
+    var price: Int
+    var restrictions: [String]
+    var description: String
+}

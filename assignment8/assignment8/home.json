@@ -1,0 +1,62 @@
+[
+  {
+    "id": "living-room",
+    "name": "Living Room",
+    "items": [
+      {
+        "id": "home-1",
+        "name": "Sofas",
+        "photoCredit": "Home",
+        "price": 0,
+        "restrictions": [],
+        "description": "Comfortable multi-seat upholstered furniture designed as the centerpiece for relaxation and lounging in living spaces."
+      },
+      {
+        "id": "home-2",
+        "name": "Decor",
+        "photoCredit": "Home",
+        "price": 0,
+        "restrictions": [],
+        "description": "Aesthetic ornaments, vases, and artistic accents that elevate interior design and add personality to a room."
+      },
+      {
+        "id": "home-3",
+        "name": "TV Sets",
+        "photoCredit": "Home",
+        "price": 0,
+        "restrictions": [],
+        "description": "High-definition display entertainment systems for immersive movie nights, gaming, and media streaming."
+      }
+    ]
+  },
+  {
+    "id": "bedroom-comfort",
+    "name": "Bedroom & Comfort",
+    "items": [
+      {
+        "id": "home-4",
+        "name": "Blankets",
+        "photoCredit": "Home",
+        "price": 0,
+        "restrictions": [],
+        "description": "Soft, warm textile layers designed to provide physical coziness and insulation during rest."
+      },
+      {
+        "id": "home-5",
+        "name": "Bed Frames",
+        "photoCredit": "Home",
+        "price": 0,
+        "restrictions": [],
+        "description": "Sturdy structural foundations designed to support mattresses securely while anchoring bedroom aesthetics."
+      },
+      {
+        "id": "home-6",
+        "name": "Curtains",
+        "photoCredit": "Home",
+        "price": 0,
+        "restrictions": [],
+        "description": "Window dressings that block out sunlight, ensure privacy, and add texture to interior room decor."
+      }
+    ]
+  }
+]
