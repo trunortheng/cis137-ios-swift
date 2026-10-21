@@ -13,8 +13,6 @@
 
 Check out **What the Flip!** in action:
 
-## 🎥 Demo
-
 [![What the Flip - Gameplay Preview](https://img.youtube.com/vi/ITpk4t0L3qE/0.jpg)](https://youtube.com/shorts/ITpk4t0L3qE?feature=share)
 
 *(Click the image above to watch the gameplay demo!)*
