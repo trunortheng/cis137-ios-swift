@@ -1,4 +1,10 @@
-# What the Flip 🤸‍♂️📱
+# What the Flip!
+
+
+
+
+
+ 🤸‍♂️📱
 
 > An engaging mobile game built with Swift and SwiftUI for iOS. 
 
@@ -12,8 +18,6 @@
 ## 🎥 Demo
 
 Check out **What the Flip!** in action:
-
-
 
 
 
