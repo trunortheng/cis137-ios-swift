@@ -1,12 +1,6 @@
-# What the Flip!
+# What the Flip!🤸‍♂️📱
 
-
-
-
-
- 🤸‍♂️📱
-
-> An engaging mobile game built with Swift and SwiftUI for iOS. 
+> A simple mobile game built with Swift and SwiftUI for iOS. 
 
 [![Swift](https://img.shields.io/badge/Swift-6.0-orange.svg)](https://swift.org)
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-Framework-blue.svg)](https://developer.apple.com/swiftui)
@@ -19,7 +13,11 @@
 
 Check out **What the Flip!** in action:
 
+## 🎥 Demo
 
+[![What the Flip - Gameplay Preview](https://img.youtube.com/vi/ITpk4t0L3qE/0.jpg)](https://youtube.com/shorts/ITpk4t0L3qE?feature=share)
+
+*(Click the image above to watch the gameplay demo!)*
 
 ---
 
@@ -33,7 +31,7 @@ Developed as part of coursework (`CIS137` - Lab 2), this project highlights best
 
 ## ✨ Features
 
-- **Dynamic Gameplay Mechanics:** ˆnteractive rounds that test user reflexes and strategy.
+- **Dynamic Gameplay Mechanics:** Interactive rounds that test user reflexes and strategy.
 - **Modern SwiftUI Interface:** Fully responsive layouts utilizing native layout containers, custom modifiers, and fluid animations.
 - **Robust State Management:** Clean separation of concerns using observable models and robust Swift data structures.
 
@@ -62,4 +60,4 @@ To get a local copy up and running on your machine or iOS simulator, follow thes
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/trunortheng/cis137-ios-swift.git](https://github.com/trunortheng/cis137-ios-swift.git)
+   git clone https://github.com/trunortheng/cis137-ios-swift.git
