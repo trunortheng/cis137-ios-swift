@@ -1,8 +1,8 @@
 //
-//  lab2App.swift
-//  lab2
-//
-//  Created by cisstudent on 10/20/26.
+//  ContentView.swift
+//  Lab 2: Grids in Swift UI
+//  Author: Erick Ramos
+//  Date: 10/20/26
 //
 
 import SwiftUI

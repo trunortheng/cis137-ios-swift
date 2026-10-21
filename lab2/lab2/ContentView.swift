@@ -32,17 +32,14 @@ struct ContentView:View {
         NavigationView {
             ScrollView {
                 VStack(spacing:8) {
-                    Text("Hide The Card!")
+                    Text("What the Flip!")
                         .font(.largeTitle)
                         .foregroundColor(.indigo)
                         .bold()
                         .padding(.top)
-                
+                // Simplified the LazyVGrid for a more consistent alignment
                     LazyVGrid(columns: columns, spacing: 16) {
-                        // [GridItem(.adaptive(minimum: 130),
-                        // spacing:1)]) {
                         ForEach(images, id: \.self) { im in
-//                        ForEach(images[0..<images.count], id:\.self) {
                             FlowerCards(content:im)
                                 .aspectRatio(1, contentMode: .fit)
                         }
@@ -64,15 +61,16 @@ struct FlowerCards: View {
     
     var body: some View {
         ZStack {
-            let shape = Rectangle()
+            RoundedRectangle(cornerRadius: 16)
+                .fill(Color(.systemBackground))
+                .shadow(color: Color.indigo.opacity(0.2), radius: 6, x:0, y:4)
+            
+            let shape = RoundedRectangle(cornerRadius: 16)
                 .foregroundColor(.indigo)
-                .frame(width:70.0, height:70.0)
-                .padding()
             
             RoundedRectangle(cornerRadius: 16)
                 .stroke(lineWidth: 3)
                 .foregroundColor(.indigo)
-                .frame(width: 80.0, height:80.0)
             
             Image(content)
                 .resizable()
@@ -86,9 +84,12 @@ struct FlowerCards: View {
             else {
                 shape.opacity(1)
             }
-        }.padding(.horizontal)
+        }
+        //Added the gesture with animation for a better flip transition
          .onTapGesture {
-             isFaceUp = !isFaceUp
+             withAnimation(.easeInOut(duration: 0.2)) {
+                 isFaceUp.toggle()
+             }
         }
     }
 }
@@ -99,9 +100,11 @@ struct FlowerCards: View {
 struct CardView: View {
     var image: String
     @State var isFaceUp: Bool = true
+    
     var body: some View{
         ZStack {
-            let shape = Rectangle().foregroundColor(.blue)
+            let shape = RoundedRectangle(cornerRadius: 16)
+                .foregroundColor(.blue)
                 .frame(width: 70.0, height: 70.0)
                 .padding()
             
