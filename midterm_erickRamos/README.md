@@ -20,9 +20,8 @@ Check out **Erick's Top Artists** in action:
 1. [Project Overview](#-project-overview)
 2. [Features & Architecture](#-features--architecture)
 3. [App Usage & Navigation](#-app-usage--navigation)
-4. [Video Demonstration](#-video-demonstration)
-5. [Rubric & Requirements Verification](#-rubric--requirements-verification)
-6. [Installation & Setup](#-installation--setup)
+4. [Rubric & Requirements Verification](#-rubric--requirements-verification)
+5. [Installation & Setup](#-installation--setup)
 
 ---
 
