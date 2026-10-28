@@ -8,9 +8,9 @@ A modern, responsive iOS application developed using **SwiftUI** and structured 
 
 ## 🎥 Demo
 
-Check out **What the Flip!** in action:
+Check out **Erick's Top Artists** in action:
 
-[![Erick's Top Artists Preview](https://img.youtube.com/vi/ITpk4t0L3qE/0.jpg)](https://youtube.com/shorts/xhvpRbVYDS4?feature=share)
+[![Erick's Top Artists Preview](https://img.youtube.com/vi/xhvpRbVYDS4/0.jpg)](https://youtube.com/shorts/xhvpRbVYDS4?feature=share)
 
 *(Click the image above to watch the gameplay demo!)*
 
