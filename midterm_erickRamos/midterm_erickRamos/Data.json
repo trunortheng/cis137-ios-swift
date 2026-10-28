@@ -1,62 +1,80 @@
 [
     {
-        "id": "aa32jj887hhg55",
-        "name": "replace with your item's name 1",
-        "description": "replace with a description for this item",
+        "id": "art-01-surfergirl",
+        "name": "Surfer Girl",
+        "description": "Surfer Girl is an indie-reggae project led by Carter Reeves, blending surf-rock, pop, and laid-back beach vibes, featured on your playlist with 'Evil'.",
         "imageName": "image1"
     },
     {
-        "id": "bb32jj887hhg77",
-        "name": "replace with your item's name 2",
-        "description": "replace with a description for this item",
+        "id": "art-02-theelovaters",
+        "name": "The Elovaters",
+        "description": "The Elovaters are a prominent reggae-rock band hailing from Boston, Massachusetts, known for chart-topping hits like 'Upside Down', 'Be Alright', and 'So Many Reasons'.",
         "imageName": "image2"
     },
     {
-        "id": "cc32jj887hhg66",
-        "name": "replace with your item's name 3",
-        "description": "replace with a description for this item",
+        "id": "art-03-dannylux",
+        "name": "DannyLux",
+        "description": "DannyLux is a prominent singer-songwriter in the modern Música Mexicana and sierreño movement, featured on your playlist with 'Mil Razones'.",
         "imageName": "image3"
     },
     {
-        "id": "dd32jj887hhg88",
-        "name": "replace with your item's name 3",
-        "description": "replace with a description for this item",
+        "id": "art-04-tropidelic",
+        "name": "Tropidelic",
+        "description": "Tropidelic is a genre-bending band fusing reggae, hip-hop, and funk, featured on your playlist with 'Dollar Saved'.",
         "imageName": "image4"
     },
     {
-        "id": "ee32jj887hhg99",
-        "name": "replace with your item's name 4",
-        "description": "replace with a description for this item",
+        "id": "art-05-cuco",
+        "name": "Cuco",
+        "description": "Cuco is a Mexican-American singer-songwriter celebrated for his dream-pop and alternative soundscapes, featured on your playlist with 'Sitting In The Corner'.",
         "imageName": "image5"
     },
     {
-        "id": "ff32jj887hhg99",
-        "name": "replace with your item's name 5",
-        "description": "replace with a description for this item",
+        "id": "art-06-rhcp",
+        "name": "Red Hot Chili Peppers",
+        "description": "Red Hot Chili Peppers are legendary Rock and Roll Hall of Fame alternative icons, featured on your playlist with 'White Braids & Pillow Chair'.",
         "imageName": "image6"
     },
     {
-        "id": "gg32jj887hhg99",
-        "name": "replace with your item's name 6",
-        "description": "replace with a description for this item",
+        "id": "art-07-theexpendables",
+        "name": "The Expendables",
+        "description": "The Expendables are a Santa Cruz-based band blending surf-rock, reggae, and punk rock, featured on your playlist with 'Burning Up (Acoustic)'.",
         "imageName": "image7"
     },
     {
-        "id": "hh32jj887hhg99",
-        "name": "replace with your item's name 7",
-        "description": "replace with a description for this item",
+        "id": "art-08-theweeknd",
+        "name": "The Weeknd",
+        "description": "The Weeknd is a Canadian singer, songwriter, and record producer known for his sonic versatility and dark lyricism in contemporary R&B and synth-pop.",
         "imageName": "image8"
     },
     {
-        "id": "ii32jj887hhg99",
-        "name": "replace with your item's name 8",
-        "description": "replace with a description for this item",
+        "id": "art-09-taylorswift",
+        "name": "Taylor Swift",
+        "description": "Taylor Swift is an American singer-songwriter whose narrative songwriting, spanning multiple genres, has profoundly influenced the music industry and popular culture.",
         "imageName": "image9"
     },
     {
-        "id": "jj32jj887hhg99",
-        "name": "replace with your item's name 9",
-        "description": "replace with a description for this item",
+        "id": "art-10-badbunny",
+        "name": "Bad Bunny",
+        "description": "Bad Bunny is a Puerto Rican rapper and singer, often called the 'King of Latin Trap', known for redefining global urban music standards.",
         "imageName": "image10"
+    },
+    {
+        "id": "art-11-billieeilish",
+        "name": "Billie Eilish",
+        "description": "Billie Eilish is an American singer-songwriter celebrated for her distinctive whispered vocals, minimalist dark-pop production, and alternative style.",
+        "imageName": "image11"
+    },
+    {
+        "id": "art-12-kendricklamar",
+        "name": "Kendrick Lamar",
+        "description": "Kendrick Lamar is an American rapper and songwriter widely regarded as one of the most influential hip-hop artists of his generation.",
+        "imageName": "image12"
+    },
+    {
+        "id": "art-13-brunomars",
+        "name": "Bruno Mars",
+        "description": "Bruno Mars is an American singer-songwriter and multi-instrumentalist celebrated for his retro showmanship, funk, soul, and R&B hits.",
+        "imageName": "image13"
     }
 ]

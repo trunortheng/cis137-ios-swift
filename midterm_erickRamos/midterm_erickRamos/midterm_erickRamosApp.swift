@@ -1,8 +1,8 @@
 //
 //  midterm_erickRamosApp.swift
-//  midterm_erickRamos
-//
-//  Created by cisstudent on 10/26/26.
+//  Midterm Project
+//  Author: Erick Ramos
+//  Date: 10/20/26
 //
 
 import SwiftUI
