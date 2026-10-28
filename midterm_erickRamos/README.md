@@ -12,7 +12,7 @@ Check out **Erick's Top Artists** in action:
 
 [![Erick's Top Artists Preview](https://img.youtube.com/vi/xhvpRbVYDS4/0.jpg)](https://youtube.com/shorts/xhvpRbVYDS4?feature=share)
 
-*(Click the image above to watch the gameplay demo!)*
+*(Click the image above to watch the demo!)*
 
 ---
 
@@ -57,14 +57,6 @@ The application utilizes a local bundle JSON parser to hydrate data models, iter
    * The full artist title.
    * A section divider and detailed biographical summary.
 5. **Return**: Tap the back button in the top-left navigation bar to return to the primary list.
-
----
-
-## 🎥 Video Demonstration
-
-Below is the demonstration video showing the application running on the iOS Simulator, highlighting smooth navigation from the main list to the detailed view and back.
-
-### [Simulator Walkthrough](https://youtube.com/shorts/xhvpRbVYDS4?feature=share)
 
 ---
 
