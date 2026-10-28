@@ -6,6 +6,14 @@
 
 A modern, responsive iOS application developed using **SwiftUI** and structured around the **Model-View-ViewModel (MVVM)** architectural pattern. This project dynamically decodes, parses, and displays a curated list of top music artists from a local JSON payload (`Data.json`), offering seamless stack navigation from a summary list view to an expanded item detail view.
 
+## 🎥 Demo
+
+Check out **What the Flip!** in action:
+
+[![Erick's Top Artists Preview](https://img.youtube.com/vi/ITpk4t0L3qE/0.jpg)](https://youtube.com/shorts/xhvpRbVYDS4?feature=share)
+
+*(Click the image above to watch the gameplay demo!)*
+
 ---
 
 ## 📋 Table of Contents
