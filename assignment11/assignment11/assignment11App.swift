@@ -1,8 +1,8 @@
 //
 //  assignment11App.swift
-//  assignment11
-//
-//  Created by cisstudent on 10/27/26.
+//  Assignment 11: Tabbed Views and Context Menus
+//  Author: Erick Ramos
+//  Date: 11/02/2026
 //
 
 import SwiftUI
