@@ -38,7 +38,6 @@ The **Holiday Festival Explorer** (`Assignment_11`) provides a polished interfac
 - **Tab-Based Navigation (`TabView`)**: Seamlessly switches between three distinct cultural celebration views using native SF Symbols and custom tab items.
 - **Context Menus (`.contextMenu`)**: Implements interactive long-press contextual menus on festival hero graphics, providing quick access to festival summaries and metadata.
 - **Custom Asset Integration**: Features dedicated image assets (`muertos`, `independence`, and `holi`) housed cleanly inside rounded layout containers.
-- **Video Demonstration Fields**: Includes dedicated multimedia preview sections within each festival detail view to highlight real-world cultural footage and celebrations.
 - **Modular View Architecture**: Built using clean component structures (`MuertosView`, `IndependenceDayView`, and `HoliView`) wrapped inside native `NavigationStack` hierarchies.
 
 ---
@@ -62,8 +61,7 @@ The **Holiday Festival Explorer** (`Assignment_11`) provides a polished interfac
 1. **Launch**: Upon launching the app, the home screen loads the primary `TabView` orchestrating the three festival tabs.
 2. **Switch Tabs**: Tap any tab icon at the bottom of the screen (**Muertos**, **4th of July**, or **Holi**) to switch views.
 3. **Explore Details**: Scroll through each festival's dedicated page to read about its cultural significance and view the feature image.
-4. **Trigger Context Menu**: **Press and hold** (long-press) on the hero image banner at the top of any festival view to reveal the contextual menu containing festival quick details.
-5. **View Demonstration**: Check the video demonstration section at the bottom of each view for real-world cultural context.
+4. **View Demonstration**: Check the video demonstration section at the bottom of each view for real-world cultural context.
 
 ---
 
