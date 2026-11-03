@@ -4,7 +4,7 @@
 [![Architecture](https://img.shields.io/badge/Architecture-Modular%20Views-blue.svg)](https://developer.apple.com/swiftui/)
 [![Platform](https://img.shields.io/badge/Platform-iOS%20Simulator%20%2F%20Device-lightgrey.svg)](https://developer.apple.com/xcode/)
 
-A clean, modern iOS mobile application developed using **SwiftUI** as part of coursework for **CIS 137**. This application demonstrates advanced layout principles using native `TabView` navigation, rich contextual interactions via `.contextMenu`, custom image assets (`muertos`, `independence`, and `holi`), and dedicated multimedia video demonstration fields.
+A clean, modern iOS mobile application developed using **SwiftUI** as part of coursework for **CIS 137**. This application demonstrates advanced layout principles using native `TabView` navigation, rich contextual interactions via `.contextMenu`, custom image assets, and dedicated multimedia video demonstration fields.
 
 ---
 
@@ -12,12 +12,9 @@ A clean, modern iOS mobile application developed using **SwiftUI** as part of co
 
 Check out the **Holiday Festival Explorer** in action:
 
-[![Holiday Festival Explorer Preview](https://img.youtube.com/vi/xhvpRbVYDS4/0.jpg)](https://youtube.com/shorts/xhvpRbVYDS4?feature=share)
-
-*(Click the image above to watch the demo!)*
-
 https://github.com/user-attachments/assets/53377061-873c-4d68-8751-694f427d1749
 
+*(Click the image above to watch the demo!)*
 ---
 
 ## 📋 Table of Contents
