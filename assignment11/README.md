@@ -15,6 +15,7 @@ Check out the **Holiday Festival Explorer** in action:
 https://github.com/user-attachments/assets/53377061-873c-4d68-8751-694f427d1749
 
 *(Click the image above to watch the demo!)*
+
 ---
 
 ## 📋 Table of Contents
