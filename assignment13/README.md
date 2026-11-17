@@ -39,8 +39,8 @@ Check out **What the Flip!** in action:
 The application strictly adheres to the **MVVM (Model-View-ViewModel)** architectural pattern to ensure modularity, scalability, and testability:
 
 - **Model (`MemoryGame.swift`)**: Manages the core game state, including card collections (`Array<Card>`), pair counts, tracking of currently flipped cards, pure business logic rules (`chooseCard`), and a computed `progress` variable calculating the ratio of matched cards. Completely independent of SwiftUI.
-- **View-Model (`FlowerMemoryGame.swift`)**: An `ObservableObject` class acting as the reactive bridge between the Model and the View. Exposes a `@Published` model instance, read-only card streams, a progress accessor property, user action handlers (`choose(_:)`), and game state reset logic (`restart()`).
-- **View (`ContentView.swift` & `FlowerCard`)**: A declarative SwiftUI interface wrapped in a `ZStack` that renders grid layouts, handles tap gestures, binds real-time progress metrics to a `ProgressView`, applies smooth animations, and conditionally displays a centered victory overlay.
+- **View-Model (`TechMemoryGame.swift`)**: An `ObservableObject` class acting as the reactive bridge between the Model and the View. Exposes a `@Published` model instance, read-only card streams, a progress accessor property, user action handlers (`choose(_:)`), and game state reset logic (`restart()`).
+- **View (`ContentView.swift` & `TechCard`)**: A declarative SwiftUI interface wrapped in a `ZStack` that renders grid layouts, handles tap gestures, binds real-time progress metrics to a `ProgressView`, applies smooth animations, and conditionally displays a centered victory overlay.
 
 ---
 
