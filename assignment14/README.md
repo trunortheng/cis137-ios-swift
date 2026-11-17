@@ -30,7 +30,7 @@ Check out the **Kumano Kodo Gesture Explorer** in action:
 
 ## 🌍 Project Overview
 
-The **Kumano Kodo Gesture Explorer** was developed to explore advanced gesture recognition and multi-tab navigation in SwiftUI. Users can inspect high-resolution photography of the Kumano Kodo—an ancient network of cedar-lined pilgrimage paths in Japan's Kii Peninsula—using intuitive tap, double-tap, long-press, and drag interactions. Alongside the interactive canvas, the application provides dedicated tabs detailing the cultural and personal inspiration behind the location as well as a technical breakdown of how each gesture recognizer operates.
+The **Kumano Kodo Gesture Explorer** was developed to explore advanced gesture recognition and multi-tab navigation in SwiftUI. Users can inspect high-resolution photography of the Kumano Kodo, an ancient network of cedar-lined pilgrimage paths in Japan's Kii Peninsula, using intuitive tap, double-tap, long-press, and drag interactions. Alongside the interactive canvas, the application provides dedicated tabs detailing the cultural and personal inspiration behind the location as well as a technical breakdown of how each gesture recognizer operates.
 
 ---
 
@@ -58,7 +58,7 @@ The application is organized into a modular, multi-tab SwiftUI hierarchy within 
 ## 🎮 Gesture Mechanics & Controls
 
 1. **Single Tap (`TapGesture`) — Zoom In**: Increments the image scale factor by `0.5` (`scale += 0.5`), allowing users to progressively inspect fine details along the trail.
-2. **Double Tap (`TapGesture(count: 2)`) — Zoom Out**: Registered via `.highPriorityGesture()` to intercept rapid double taps before single-tap handlers fire, reducing the scale (`scale = max(0.5, scale - 0.5)`) and re-centering the image if returned to `1.0`.
+2. **Double Tap (`TapGesture(count: 2)`) — Zoom Out**: Registered via `.highPriorityGesture()` to intercept rapid double taps before single-tap handlers fire, reducing the scale (`scale = max(0.5, scale - 0.5)`) and recentering the image if returned to `1.0`.
 3. **Long Press (`LongPressGesture(minimumDuration: 1.0)`) — Reset**: Runs simultaneously with tap gestures; holding on the image for 1.0 second restores `scale` to `1.0` and resets both `offset` and `lastOffset` to `.zero`.
 4. **Drag (`DragGesture`) — Pan Across Canvas**: Captures continuous `CGSize` drag translations (`onChanged`) and persists the final coordinates (`onEnded`), letting users explore any region of the zoomed image.
 
@@ -76,4 +76,4 @@ The application is organized into a modular, multi-tab SwiftUI hierarchy within 
 
 1. **Clone the Repository**:
    ```bash
-   git clone [https://github.com/trunortheng/cis137-ios-swift.git](https://github.com/trunortheng/cis137-ios-swift.git)
+   git clone https://github.com/trunortheng/cis137-ios-swift.git
